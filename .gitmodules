@@ -1,0 +1,3 @@
+[submodule "Snorpy"]
+	path = Snorpy
+	url = git@github.com:chrisjd20/Snorpy.git
